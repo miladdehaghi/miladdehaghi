@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer and electronics enthusi
 ////////////////////////
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miladdehaghi&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 - **Email:** [miladdehaghi13@gmail.com](miladdehaghi13@gmail.com)
